@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xcd633fda33e12757e206fb9bdffb7a73b42c44df",
-  "SCAN_LINK": "https://etherscan.io/token/0xcd633fda33e12757e206fb9bdffb7a73b42c44df",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://etherscan.io/token/",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Cute Skullz",
-  "SYMBOL": "CuteSkullz",
-  "MAX_SUPPLY": 3000,
+  "NFT_NAME": "Cute Skullz Official",
+  "SYMBOL": "CuteSkullz Official",
+  "MAX_SUPPLY": 2222,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/cuteskullz",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
 }
